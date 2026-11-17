@@ -70,7 +70,7 @@ jobs:
           # Issue je jen doručovací kanál pro notifikaci — e-mail odejde už při
           # založení, takže ho rovnou zavíráme a seznam otevřených zůstává
           # prázdný. Obsah zůstane čitelný mezi zavřenými issues.
-          gh issue close "$url" --reason completed
+          # gh issue close "$url" --reason completed
 
       - name: Uložit stav zpátky do repa
         run: |
