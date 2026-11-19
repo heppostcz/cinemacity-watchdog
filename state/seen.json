@@ -1,28 +1,6 @@
 {
- "updated": "2026-11-17T22:08:17",
+ "updated": "2026-11-19T15:58:52",
  "events": {
-  "280340": {
-   "id": "280340",
-   "film": "Duna",
-   "filmLink": "https://www.cinemacity.cz/films/duna/6377s2r1",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-12-03T17:00:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "12-plus",
-    "2d",
-    "action",
-    "adventure",
-    "drama",
-    "first-subbed-lang-cs",
-    "imax",
-    "sci-fi",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/280340",
-   "soldOut": false
-  },
   "280345": {
    "id": "280345",
    "film": "Duna: Část druhá",
@@ -89,28 +67,6 @@
    "booking": "https://tickets.cinemacity.cz/order/280341",
    "soldOut": false
   },
-  "280344": {
-   "id": "280344",
-   "film": "Duna",
-   "filmLink": "https://www.cinemacity.cz/films/duna/6377s2r1",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-12-06T17:00:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "12-plus",
-    "2d",
-    "action",
-    "adventure",
-    "drama",
-    "first-subbed-lang-cs",
-    "imax",
-    "sci-fi",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/280344",
-   "soldOut": false
-  },
   "280346": {
    "id": "280346",
    "film": "Duna: Část druhá",
@@ -133,28 +89,6 @@
    "booking": "https://tickets.cinemacity.cz/order/280346",
    "soldOut": false
   },
-  "280342": {
-   "id": "280342",
-   "film": "Duna",
-   "filmLink": "https://www.cinemacity.cz/films/duna/6377s2r1",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-12-08T17:00:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "12-plus",
-    "2d",
-    "action",
-    "adventure",
-    "drama",
-    "first-subbed-lang-cs",
-    "imax",
-    "sci-fi",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/280342",
-   "soldOut": false
-  },
   "280348": {
    "id": "280348",
    "film": "Duna: Část druhá",
@@ -175,28 +109,6 @@
     "subbed"
    ],
    "booking": "https://tickets.cinemacity.cz/order/280348",
-   "soldOut": false
-  },
-  "280343": {
-   "id": "280343",
-   "film": "Duna",
-   "filmLink": "https://www.cinemacity.cz/films/duna/6377s2r1",
-   "cinema": "Praha Flora, OC FLORA",
-   "cinemaId": "1052",
-   "datetime": "2026-12-09T17:00:00",
-   "auditorium": "IMAX VOLVO",
-   "attrs": [
-    "12-plus",
-    "2d",
-    "action",
-    "adventure",
-    "drama",
-    "first-subbed-lang-cs",
-    "imax",
-    "sci-fi",
-    "subbed"
-   ],
-   "booking": "https://tickets.cinemacity.cz/order/280343",
    "soldOut": false
   },
   "280349": {
